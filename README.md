@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 👋 My name is Diego Brito Sánchez
+====================================
 
-<!--
-**DiegoBritoSanchez/DiegoBritoSanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer and programmer
+----------------------------
 
-Here are some ideas to get you started:
+I have learned the initial stages of using the Laravel framework and I am willing to continue improving my back-end skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Los Llanos de Aridane, Spain
+*   ✉️  You can contact me at [diegobritosanchez13@gmail.com](mailto:diegobritosanchez13@gmail.com)
+*   🚀  I'm currently working on [trainee at Demase Informatica](http://www.facebook.com/demaseinformatica/)
+*   🧠  I'm learning SQL Server, C# and a little bit of .NET
+*   🤝  I'm open to collaborating on interesting projects that will help me in my learning in this world of programming.
+*   ⚡  I am not very fluent in English due to lack of practice but I am willing to improve. I am also
